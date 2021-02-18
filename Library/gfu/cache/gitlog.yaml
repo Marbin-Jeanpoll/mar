@@ -13,9 +13,105 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-02-18T17:47:13.769-05:00
+  lastUpdatedAtString: 2021-02-18T17:56:00.860-05:00
   initializedAtString: 2021-02-18T17:29:57.949-05:00
   log:
+  - commitID: abe2bc89d1a5b9381a6990ea3c47bb656a6c1ef7
+    mergeA: 
+    mergeB: 
+    authorName: Marbin-Jeanpoll
+    authorEmail: marbin_26_06@hotmail.com
+    commitEmail: marbin_26_06@hotmail.com
+    commitName: Marbin-Jeanpoll
+    summary: 'odified:   Library/gfu/cache/repoinsddfo.yaml'
+    description: dsdsdsdsdsdsdsd
+    timeString: 2021-02-18T17:49:18.000-05:00
+    commitTimeString: 2021-02-18T17:49:18.000-05:00
+    changes:
+    - path: Assets\Scritp\cambiosv2.cs
+      fullPath: E:\unity\mar\Assets\Scritp\cambiosv2.cs
+      projectPath: Assets\Scritp\cambiosv2.cs
+      originalPath: Assets\Scritp\cambios.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scritp\cambiosv2.cs.meta
+      fullPath: E:\unity\mar\Assets\Scritp\cambiosv2.cs.meta
+      projectPath: Assets\Scritp\cambiosv2.cs.meta
+      originalPath: Assets\Scritp\cambios.cs.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: E:\unity\mar\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB-lock
+      fullPath: E:\unity\mar\Library\ArtifactDB-lock
+      projectPath: Library\ArtifactDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: E:\unity\mar\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: E:\unity\mar\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: E:\unity\mar\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB-lock
+      fullPath: E:\unity\mar\Library\SourceAssetDB-lock
+      projectPath: Library\SourceAssetDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\unity\mar\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: E:\unity\mar\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\unity\mar\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\unity\mar\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\unity\mar\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: E:\unity\mar\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 3a1a2c05f5fed19a17882e26f8d399938afdee25
     mergeA: 
     mergeB: 
