@@ -13,11 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-02-18T17:21:29.394-05:00
-  initializedAtString: 2021-02-18T17:01:28.083-05:00
-  localBranches: []
+  lastUpdatedAtString: 2021-02-18T17:25:30.118-05:00
+  initializedAtString: 2021-02-18T17:25:30.097-05:00
+  localBranches:
+  - name: master
+    tracking: 
   remoteBranches:
   - name: origin/main
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -28,17 +32,29 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - main
+      - master
     subKeyValues:
     - Values:
       - name: main
+        remote:
+          name: origin
+          url: https://github.com/Marbin-Jeanpoll/mar.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/Marbin-Jeanpoll/mar.git
