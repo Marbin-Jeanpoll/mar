@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-02-18T17:25:30.118-05:00
-  initializedAtString: 2021-02-18T17:25:30.097-05:00
+  lastUpdatedAtString: 2021-02-18T17:29:49.825-05:00
+  initializedAtString: 2021-02-18T17:29:49.780-05:00
   localBranches:
   - name: master
-    tracking: 
+    tracking: origin/master
   remoteBranches:
   - name: origin/main
     tracking: '[None]'
@@ -37,9 +37,9 @@ MonoBehaviour:
     values:
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/Marbin-Jeanpoll/mar.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
