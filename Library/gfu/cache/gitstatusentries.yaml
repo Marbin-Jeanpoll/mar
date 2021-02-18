@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-02-18T17:35:23.080-05:00
   initializedAtString: 2021-02-18T17:28:11.569-05:00
   entries:
@@ -9651,6 +9652,14 @@ MonoBehaviour:
   - path: Library\PackageCache\com.unity.timeline@1.2.16\Runtime\Utilities\TimelineUndo.cs
     fullPath: E:\unity\mar\Library\PackageCache\com.unity.timeline@1.2.16\Runtime\Utilities\TimelineUndo.cs
     projectPath: Library\PackageCache\com.unity.timeline@1.2.16\Runtime\Utilities\TimelineUndo.cs
+=======
+  lastUpdatedAtString: 2021-02-18T17:56:01.220-05:00
+  initializedAtString: 2021-02-18T17:28:11.569-05:00
+  entries:
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: E:\unity\mar\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+>>>>>>> develop
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -9678,6 +9687,7 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: Library\PackageCache\com.unity.timeline@1.2.16\Runtime\Utilities\WeightUtility.cs.meta
     fullPath: E:\unity\mar\Library\PackageCache\com.unity.timeline@1.2.16\Runtime\Utilities\WeightUtility.cs.meta
     projectPath: Library\PackageCache\com.unity.timeline@1.2.16\Runtime\Utilities\WeightUtility.cs.meta
@@ -9882,12 +9892,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+=======
+>>>>>>> develop
   - path: Library\SourceAssetDB
     fullPath: E:\unity\mar\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: Library\SourceAssetDB-lock
     fullPath: E:\unity\mar\Library\SourceAssetDB-lock
     projectPath: Library\SourceAssetDB-lock
@@ -9900,3 +9913,5 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+=======
+>>>>>>> develop
