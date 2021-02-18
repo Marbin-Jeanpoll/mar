@@ -13,9 +13,93 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-02-18T17:29:58.129-05:00
+  lastUpdatedAtString: 2021-02-18T17:47:13.769-05:00
   initializedAtString: 2021-02-18T17:29:57.949-05:00
   log:
+  - commitID: 3a1a2c05f5fed19a17882e26f8d399938afdee25
+    mergeA: 
+    mergeB: 
+    authorName: Marbin-Jeanpoll
+    authorEmail: marbin_26_06@hotmail.com
+    commitEmail: marbin_26_06@hotmail.com
+    commitName: Marbin-Jeanpoll
+    summary: nuevo archivo
+    description: 
+    timeString: 2021-02-18T17:31:09.000-05:00
+    commitTimeString: 2021-02-18T17:31:09.000-05:00
+    changes:
+    - path: Assets\Scritp\cambios.cs
+      fullPath: E:\unity\mar\Assets\Scritp\cambios.cs
+      projectPath: Assets\Scritp\cambios.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scritp\cambios.cs.meta
+      fullPath: E:\unity\mar\Assets\Scritp\cambios.cs.meta
+      projectPath: Assets\Scritp\cambios.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: E:\unity\mar\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: E:\unity\mar\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: E:\unity\mar\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\ab7342-mainStage.json
+      fullPath: E:\unity\mar\Library\StateCache\Hierarchy\ab7342-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\ab7342-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\unity\mar\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: E:\unity\mar\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\unity\mar\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\unity\mar\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\unity\mar\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: E:\unity\mar\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: b22b1f8bd2b51c79cc1d78192cfb351eca8ba69a
     mergeA: 
     mergeB: 
